@@ -7,5 +7,5 @@ c.Product Listings: Display of product images, names, categories and links, simi
 d.Footer Section: Includes links to various services, contact information, and social media icons.
 
 Technologies Used:
-a.HTML: For structuring the content of the web pages.
-b.CSS: For styling and layout, including Flexbox and Grid for responsiveness.
+a.HTML5: For structuring the content of the web pages.
+b.CSS3: For styling and layout, including Flexbox and Grid for responsiveness.
